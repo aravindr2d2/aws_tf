@@ -11,11 +11,12 @@
 
 ## Steps
 1. Terraform:
+```sh
     cd terraform
     terraform init
     terraform apply
-
-2. CI/CD:
+```
+3. CI/CD:
 - Set GitHub secrets: DOCKERHUB_USERNAME, DOCKERHUB_PASSWORD, BASTION_IP, BASTION_SSH_KEY, APP_PRIVATE_IP
 - Push to main branch → GitHub Actions will build, push, and deploy
 
