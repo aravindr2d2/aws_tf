@@ -1,5 +1,5 @@
 # Architecture Diagram
-![Architecture Diagram](awsdiag(bation)1.drawio.png)
+![Architecture Diagram](awsdiag(bation).drawio.png)
 
 
 # Deployment Instructions
