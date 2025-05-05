@@ -23,4 +23,6 @@
 - Access Grafana dashboard at http://<bastion-ip>:3000
 
 4. Script:
-- Run scripts.sh
+```sh
+sh script.sh
+```
