@@ -67,8 +67,8 @@
     ```
 
 3. Access services:
-    - Prometheus → http://"<EC2 IP>":9090
-    - Grafana → http://"<EC2 IP>":3000 (default login: admin / admin)
+    - Prometheus → http://"EC2 IP":9090
+    - Grafana → http://"EC2 IP":3000 (default login: admin / admin)
 
 4. Grafana setup:
     - Add Prometheus as a data source: `http://prometheus:9090`
