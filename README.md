@@ -1,3 +1,7 @@
+# Architecture Diagram
+![Architecture Diagram](awsdiag.drawio.png)
+
+
 # Deployment Instructions
 
 ## Prerequisites
