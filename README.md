@@ -17,7 +17,7 @@
     terraform plan
     terraform apply
 ```
-3. CI/CD:
+2. CI/CD:
 - Set GitHub secrets: DOCKERHUB_USERNAME, DOCKERHUB_PASSWORD, BASTION_IP, BASTION_SSH_KEY, APP_PRIVATE_IP
 - Push to main branch → GitHub Actions will build, push, and deploy
 
