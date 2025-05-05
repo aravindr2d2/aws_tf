@@ -14,6 +14,7 @@
 ```sh
     cd terraform
     terraform init
+    terraform plan
     terraform apply
 ```
 3. CI/CD:
