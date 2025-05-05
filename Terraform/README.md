@@ -78,12 +78,12 @@
 
 1. Make script executable:
     ```bash
-    chmod +x scripts/service_monitor.sh
+    chmod +x script.sh
     ```
 
 2. Run the script:
     ```bash
-    ./scripts/service_monitor.sh
+    ./script.sh
     ```
 
 ---
